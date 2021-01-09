@@ -1,4 +1,4 @@
-# Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller
+# Rain Sensing Automatic Car Wiper using AT89C51 Microcontroller
 
 
 ### Read our paper on [arXiv](https://arxiv.org/pdf/2101.01670.pdf)
