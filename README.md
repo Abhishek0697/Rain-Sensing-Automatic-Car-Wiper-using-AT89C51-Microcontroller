@@ -1,5 +1,9 @@
 # Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller
 
+
+Read our paper on [arXiv](https://arxiv.org/pdf/2101.01670.pdf)
+
+
 _IDEA:_
 
 
@@ -7,25 +11,6 @@ _IDEA:_
 Today’s car wipers are manual systems that work on the principle of manual switching. So here we propose an automatic wiper system that automatically switches ON on detecting rain and stops when rain stops. Our project brings forward this system to automate the wiper system having no need for manual intervention. For this purpose we use rain sensor along with microcontroller to drive the wiper motor. Our system uses rain sensor to detect rain, this signal is then processed by microcontroller to take the desired action. The rain sensor works on the principle of using water for completing its circuit, so when rain falls on it it’s circuit gets completed and sends out a signal to the microcontroller. The microcontroller now processes this data and controls the motor.This system is equally useful for Aircrafts and a smaller version of this can be used  by motor bikers in their helmets so that they can drive easily in rains.
 
 
-
-
-
-## Pin Configuration of 8051 Microcontroller
-
-
-The AT89C51 is a low-power, high-performance CMOS 8-bit microcomputer with 4K bytes of Flash programmable and erasable read only memory.  The on-chip Flash allows the program memory to be reprogrammed in-system or by a conventional non volatile memory programmer. By combining a versatile 8-bit CPU with Flash on a monolithic chip, the Atmel AT89C51 is a powerful microcomputer which provides a highly-flexible and cost-effective solution to many embedded control applications.
-
-
-
-![Pin Configuration of 8051 Microcontroller](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/Pin%20Configuration%20of%208051%20Microcontroller.jpg)
-
-
-
-
-
-
-## Flowchart
-![Flowchart](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/Flowchart.png)
 
 
 The rain sensor module is an easy tool for rain detection. It can be used as a switch when raindrop falls through the raining board and also for measuring rainfall intensity. The module features, a rain board and the control board that is separate for more convenience, power indicator LED and an adjustable sensitivity through a potentiometer. Raindrop sensor is a board coated with nickel in the form of lines. It works on the principal of ohms law. When there is no rain drop on board. Resistance is high so we gets high voltage according to V=IR. When rain drop present it reduces the resistance because water is conductor of electricity and presence of water connects nickel lines in parallel so reduced resistance and reduced voltage drop across it
