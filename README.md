@@ -19,7 +19,7 @@ Today’s car wipers are manual systems that work on the principle of manual swi
 
 
 ## Etched PCB 
-![Etched PCB](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/Etched%20PCB.jpg)
+![Etched PCB](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/EtchedPCB.jpg)
 
 
 ## Model 
