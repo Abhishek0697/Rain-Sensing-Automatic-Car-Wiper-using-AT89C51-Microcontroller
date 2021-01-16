@@ -15,11 +15,11 @@ Today’s car wipers are manual systems that work on the principle of manual swi
 
 
 ## PCB Layout Design on EAGLE PCB Design Software
-![PCB Layout Design on EAGLE PCB Design Software](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/PCB%20Layout%20on%20Eagle.jpg)
-
+<img src="https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/PCB%20Layout%20on%20Eagle.jpg" alt="drawing" width="300"/>
 
 ## Etched PCB 
-![Etched PCB](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/EtchedPCB.jpg)
+
+<img src="https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/blob/master/docs/EtchedPCB.jpg" alt="drawing" width="300"/>
 
 
 ## Model 
